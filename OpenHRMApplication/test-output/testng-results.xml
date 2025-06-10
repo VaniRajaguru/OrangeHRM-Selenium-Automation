@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-10T10:25:10 IST" name="HRM Test Suite" finished-at="2025-06-10T10:25:19 IST" duration-ms="8917">
+    <groups>
+    </groups>
+    <test started-at="2025-06-10T10:25:10 IST" name="Login Page Test Case" finished-at="2025-06-10T10:25:11 IST" duration-ms="1228">
+      <class name="testCases.Test_Login_Page">
+        <test-method signature="loginTest()[pri:0, instance:testCases.Test_Login_Page@5443d039]" started-at="2025-06-10T10:25:10 IST" name="loginTest" finished-at="2025-06-10T10:25:11 IST" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- testCases.Test_Login_Page -->
+    </test> <!-- Login Page Test Case -->
+    <test started-at="2025-06-10T10:25:11 IST" name="Pending Leave Request Test Case" finished-at="2025-06-10T10:25:16 IST" duration-ms="4801">
+      <class name="testCases.Test_Pending_Leave_Request">
+        <test-method signature="verifyHowManyAreInLeave()[pri:0, instance:testCases.Test_Pending_Leave_Request@3e7dd664]" started-at="2025-06-10T10:25:11 IST" name="verifyHowManyAreInLeave" finished-at="2025-06-10T10:25:16 IST" duration-ms="4794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHowManyAreInLeave -->
+      </class> <!-- testCases.Test_Pending_Leave_Request -->
+    </test> <!-- Pending Leave Request Test Case -->
+    <test started-at="2025-06-10T10:25:16 IST" name="Check User Role Test Case" finished-at="2025-06-10T10:25:19 IST" duration-ms="2765">
+      <class name="testCases.Test_Check_User_Role">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testCases.Test_Check_User_Role@6fb365ed]" started-at="2025-06-10T10:25:00 IST" name="launchBrowser" finished-at="2025-06-10T10:25:10 IST" duration-ms="9641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="checkUserRole()[pri:0, instance:testCases.Test_Check_User_Role@6fb365ed]" started-at="2025-06-10T10:25:16 IST" name="checkUserRole" finished-at="2025-06-10T10:25:19 IST" duration-ms="2750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserRole -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.Test_Check_User_Role@6fb365ed]" started-at="2025-06-10T10:25:19 IST" name="tearDown" finished-at="2025-06-10T10:25:19 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.Test_Check_User_Role -->
+    </test> <!-- Check User Role Test Case -->
+  </suite> <!-- HRM Test Suite -->
+</testng-results>
