@@ -1,0 +1,12 @@
+[INFO ] 2025-06-10 10:25:00.746 [main] CommonFunctions - Orange HRM Test Begins
+[INFO ] 2025-06-10 10:25:00.752 [main] CommonFunctions - Loading the property file
+[INFO ] 2025-06-10 10:25:00.753 [main] CommonFunctions - Launching Chrome Browser
+[INFO ] 2025-06-10 10:25:03.628 [main] CommonFunctions - Heading to the Orange HRM portal
+[INFO ] 2025-06-10 10:25:10.459 [main] CommonFunctions - Login Page Test Starts
+[INFO ] 2025-06-10 10:25:11.709 [main] CommonFunctions - Login Test Successful
+[INFO ] 2025-06-10 10:25:11.710 [main] CommonFunctions - Pending Leave Test Starts
+[INFO ] 2025-06-10 10:25:16.488 [main] CommonFunctions - Emloyees on leave: No Employees are on Leave Today
+[INFO ] 2025-06-10 10:25:16.494 [main] CommonFunctions - Pending Leave Test Successful
+[INFO ] 2025-06-10 10:25:16.530 [main] CommonFunctions - Check User Role Test Starts
+[INFO ] 2025-06-10 10:25:19.272 [main] CommonFunctions - Check User Role Test Successful
+[INFO ] 2025-06-10 10:25:19.293 [main] CommonFunctions - Quiting the browsers
